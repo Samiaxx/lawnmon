@@ -1,0 +1,9 @@
+<svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Lawn Clinic Plus brand mark</title>
+  <desc id="desc">A white leaf forming an L shape inside a forest green circle.</desc>
+  <circle cx="48" cy="48" r="46" fill="#2E7D32"/>
+  <path d="M29 67V30h9v28h20v9H29Z" fill="#FFFFFF"/>
+  <path d="M59.5 27.5c-13 1.1-21.4 9.3-22.7 22.5 11.4.5 22-6.5 26-17.2 1.1-2.9-.2-5.5-3.3-5.3Z" fill="#FFFFFF"/>
+  <path d="M45.5 49.5c4.8-5.6 9.7-9.6 16.3-13" stroke="#6DBE45" stroke-width="3" stroke-linecap="round"/>
+  <path d="M67 56h-8v-8h-7v8h-8v7h8v8h7v-8h8v-7Z" fill="#FFFFFF"/>
+</svg>
